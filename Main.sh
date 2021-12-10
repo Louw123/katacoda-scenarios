@@ -1,0 +1,2 @@
+
+npx katacoda scenarios:create
