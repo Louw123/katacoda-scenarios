@@ -1,6 +1,0 @@
-on:
-  - name: install katacoda
-    run: npm install katacoda
-  - name: executing katacoda 
-    run: npx katacoda
-    
