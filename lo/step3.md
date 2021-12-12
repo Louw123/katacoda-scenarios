@@ -9,12 +9,12 @@ dnf is only used for fedora linix destro
 in this case its debian so to install git use this command:
 `sudo apt-get install dh-autoreconf libcurl4-gnutls-dev libexpat1-dev \ gettext libz-dev libssl-dev`
 to view the document yow will need xml to docbook2X in asciidoc by useing thiscomand
-`sudo dnf install asciidoc xmlto docbook2X`
+`sudo dnf install asciidoc xmlto docbook2X`{{execute}}
 
 dnf is only used for fedora linix destro
 in this case its debian so to install git use this command:
 
-`sudo apt-get install asciidoc xmlto docbook2x`
+`sudo apt-get install asciidoc xmlto docbook2x`{{execute}}
 
 note: Users of RHEL and RHEL-derivatives like CentOS and Scientific Linux will have to enable the EPEL repository to download the docbook2X package.
 
