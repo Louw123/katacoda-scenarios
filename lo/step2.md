@@ -1,7 +1,7 @@
 # install non-source
 to install git without going to source you will need to follow the steps
 go use the command:
-`sudo dnf install git-all`{execute}
+`sudo dnf install git-all` {execute}
 
 dnf is only used for fedora linix destro
 in this case its debian so to install git use this command:
