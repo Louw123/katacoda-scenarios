@@ -26,4 +26,4 @@ Additionally, if you’re using Fedora/RHEL/RHEL-derivatives, you need to do thi
 
 `sudo ln -s /usr/bin/db2x_docbook2texi /usr/bin/docbook2x-texisudo ln -s /usr/bin/db2x_docbook2texi /usr/bin/docbook2x-texi`{execute}
 now dowload git, useing wget by going the command:
-`wget -o git.tar.gz https://mirrors.edge.kernel.org/pub/software/scm/git/git-0.01.tar.gz`{execute}
+`wget -o git.tar.gz https://mirrors.edge.kernel.org/pub/software/scm/git/git-0.01.tar.gz`
