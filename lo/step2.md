@@ -7,7 +7,7 @@ dnf is only used for fedora linix destro
 in this case its debian so to install git use this command:
 `sudo apt install git-all`{{exec}}
 in macos a.k.a zsh its possible by useing brew by useing this command:
- `brew install git` {execute}
+ `brew install git`{{exec}}
  however if you dont have brew , it is imposible to install git outside of cli.
  note: its possible to install brew by useing commands we will look at installing brew in a next scenario.
 
